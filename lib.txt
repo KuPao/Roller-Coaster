@@ -1,0 +1,10 @@
+qtmaind.lib
+Qt5Cored.lib
+Qt5Guid.lib
+Qt5Widgetsd.lib
+Qt5OpenGLd.lib
+glew32s.lib
+
+Qt5OpenGLExtensions.lib
+opengl32.lib
+glu32.lib
